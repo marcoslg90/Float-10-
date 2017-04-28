@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 ###############################################################################
-# Autores: Asier Aranda, Marta Cela, Marcos López García, Alberto Pueyo, Candela Vidal
+# Autores: Asier Aranda, Marta Cela, Marcos López García, Alberto Pueyo, Candela Vidal Rdriguez
 # Proyecto: Bid Delfos para DiezPuntoCero como parte del curso de Telefónica
 # Empleo Digital
 # Fecha: 27 de abril del 2017
